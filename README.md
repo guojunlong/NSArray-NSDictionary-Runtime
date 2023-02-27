@@ -1,0 +1,2 @@
+# NSArray-NSDictionary-Runtime
+使用runtime预防因为数组或者字典数据问题造成程序崩溃
